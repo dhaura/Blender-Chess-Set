@@ -1,5 +1,7 @@
 # High Poly Blender Chess Set
 
+<img alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>
+
 A high poly model of a chess set including a chess board and all the chess pieces (Black and White).
 
 
